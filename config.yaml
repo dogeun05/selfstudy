@@ -1,0 +1,5 @@
+aws:
+  region: ap-northeast-2
+  s3_bucket: inhack-profile-images
+  aws_access_key_id: "받은_ID"
+  aws_secret_access_key: "받은_시크릿"
